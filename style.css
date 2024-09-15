@@ -1,0 +1,26 @@
+		*{font-family: RedditSans;}
+
+		#label1{}
+		.image{padding: 80px;}
+		.btn1{align-items: left;
+			background-color: mediumblue;
+			height: 40px;
+			width: 140px;
+			padding: 5px;
+			margin: 12px;
+			border-radius: 10px;
+			color: white;
+			font-size: 18px;}
+		.line1{font-size: 34px;}
+		.line2{font-size: 34px;}
+		.line3{color: mediumblue;}
+		.intro{font-size: 18px;
+			font-family: serif;}
+		.btn2{height: 40px;
+			background-color: mediumblue;
+			width: 140px;
+			padding: 5px;
+			margin: 12px;
+			border-radius: 10px;
+			color: white;
+			font-size: 18px;}
